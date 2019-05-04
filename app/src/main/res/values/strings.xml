@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">NewsFeedApp</string>
+    <string name="title_activity_news_page">NewsPageActivity</string>
+    <string name="html"><![CDATA[<p>Text</p>]]></string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+
+    <!--// button text-->
+    <string name="list_item_title_default_text">Default text</string>
+    <string name="list_item_title_default_desc">Default desc</string>
+    <string name="add">add</string>
+    <string name="item_successfully">item successfully saved in DB</string>
+    <string name="title_activity_saved_page">SavedPageActivity</string>
+    <string name="title_activity_notification">NotificationActivity</string>
+
+
+</resources>
